@@ -1,0 +1,2 @@
+model_checkpoint_path: "PhoenixNet_00150000"
+all_model_checkpoint_paths: "PhoenixNet_00150000"
